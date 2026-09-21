@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hearts2Hears</title>
+    <link rel="stylesheet" href="ukol.css"> <!-- Externí způsob -->
+</head>
+<body>
+    <h1>Hearts2Hearts</h1>
+    <p>Hearts2Hearts (하츠투하츠, také zkráceně H2H) je jihokorejská dívčí skupina, kterou založila agentura SM Entertainment. <br>
+     Jde o jednu z nejvýraznějších novodobých K-popových skupin.</p>
+    <img id="member-photo" src="Hearts2Hearts.jpeg" alt="Hearts2Hears members">
+    <h2>Členky</h2>
+    <table>
+        <tr>
+            <th>Jméno</th>
+            <th>Role ve skupině</th>
+        </tr>
+        <tr>
+            <td>Jiwoo</td>
+            <td>Leader (vedoucí skupiny), tanečnice, rapperka, vokalistka, visual</td>
+        </tr>
+        <tr>
+            <td>Carmen</td>
+            <td>Vokalistka</td>
+        </tr>
+        <tr>
+            <td>Yuha</td>
+            <td>Vokalistka, tanečnice</td>
+        </tr>
+        <tr>
+            <td>Stella</td>
+            <td>Vokalistka</td>
+        </tr>
+        <tr>
+            <td>Juun</td>
+            <td>Hlavní tanečnice</td>
+        </tr>
+        <tr>
+            <td>A-na</td>
+            <td>Tanečnice, rapperka, vokalistka, visual</td>
+        </tr>
+        <tr>
+            <td>Ian</td>
+            <td>Center (střed skupiny), visual, tanečnice, vokalistka</td>
+        </tr>
+        <tr>
+            <td>Ye-on</td>
+            <td>Vokalistka, Maknae (nejmladší členka skupiny)</td>
+        </tr>
+    </table>
+    <h2>Diskografie</h2>
+    <ul>
+        <li>The Chase (1. singlové album, únor 2025) – skladby: The Chase, Butterflies</li>
+        <li>FOCUS (1. mini album / EP, říjen 2025) – skladby: FOCUS, Apple Pie, Pretty Please, Flutter, Blue Moon, STYLE</li>
+        <li>Lemon Tang (2. mini album / EP, červen 2026) – skladby: Lemon Tang, 15-LOVE, Baby Steps, heart emoji (♡), Secret Recipe, RUDE!</li>
+    </ul>
+    <h2>Odkazy</h2>
+    <ul>
+        <li><a href="https://www.smentertainment.com/artist/Hearts2Hears">Oficiální stránka SM Entertainment</a></li>
+        <li><a href="https://www.instagram.com/hearts2hears/">Oficiální Instagram Hearts2Hears</a></li>
+        <li><a href="https://www.youtube.com/@Hearts2Hears">Oficiální YouTube kanál Hearts2Hears</a></li>
+    </ul>
+</body>
+</html>
